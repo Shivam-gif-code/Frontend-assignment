@@ -1,5 +1,5 @@
 import React from 'react'
-import DataTable from '../components/InputField'
+import DataTable from '../components/DataTable'
 import { Meta, StoryObj } from '@storybook/react'
 
 type Row = { id: number; name: string; email: string }
